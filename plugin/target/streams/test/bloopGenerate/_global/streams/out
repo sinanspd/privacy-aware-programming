@@ -1,0 +1,4 @@
+[debug] [plugin-test] Classpath dependencies List()
+[debug] [plugin-test] Dependencies from configurations List(plugin)
+[debug] Bloop wrote the configuration of project 'plugin-test' to '/Users/oomf/Desktop/brown/privacy/code/secure-types/secure-types/.bloop/plugin-test.json'
+[success] Generated .bloop/plugin-test.json
